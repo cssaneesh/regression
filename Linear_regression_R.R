@@ -3,7 +3,7 @@
 # We have two numeric variables;
 # 1) Speed of a car and 2) Distance taken to stop.
 # The assumption is the faster the car goes the longer it takes to stop.
-# There is a postive relationship, but we have to test and show that it is real.
+# There is a positive relationship, but we have to test and show that it is real.
 # on the x axis we have the independent variable (speed of car)
 # on the y axis we have the dependent variable (time taken to stop the car)
 # We are suggesting that the change in the x variable there will be a change in the y variable.
