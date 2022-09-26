@@ -1,1 +1,3 @@
 Simple linear regression models using R programming doesn't need to be scary. This totorial will take you through the basics of how to interpret linear regression results and the code needed to do the regression models. If you are learning regression modelling or just learning statistics and quantitative analysis then this is a good place to start.  Data science and research often address questions by looking at how much of a change in one variable can be explained by a change in another. Linear models are used to answer this question. They can also be used to predict the value of one variable given the value of another.
+
+Adopted from R Programming 101.
